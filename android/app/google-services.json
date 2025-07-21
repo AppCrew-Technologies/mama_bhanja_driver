@@ -1,0 +1,183 @@
+{
+  "project_info": {
+    "project_number": "541096490711",
+    "firebase_url": "https://mamabhanjaus1-default-rtdb.firebaseio.com",
+    "project_id": "mamabhanjaus1",
+    "storage_bucket": "mamabhanjaus1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541096490711:android:f46fcc092cb984d0826292",
+        "android_client_info": {
+          "package_name": "com.mamabhanja.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541096490711-i1di3n3ip3i05661l7lqfo64e4quoue1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamabhanja.customer",
+            "certificate_hash": "2953cb91da9cda2b206231d9c9cde03a290a1e98"
+          }
+        },
+        {
+          "client_id": "541096490711-kptubst6laafak964q0qele5t7asd77m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamabhanja.customer",
+            "certificate_hash": "590e7638f872dee1db0df76a93eb4a5b7c6068c3"
+          }
+        },
+        {
+          "client_id": "541096490711-n960bjd1k81hhd40gkp68oci93si27g6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamabhanja.customer",
+            "certificate_hash": "62a22a54f88003db759935d7f35f1b9f71e439a4"
+          }
+        },
+        {
+          "client_id": "541096490711-m04diqa9911gm8gu1dehgoq27ocdj85t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABBNQr0KXkf0ZxFEo61H6gcYlQw-KdFMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541096490711-m04diqa9911gm8gu1dehgoq27ocdj85t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "541096490711-8kf7s4c0vno9j5k0tt38vcf3i36v5mih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mamabhanja.store"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541096490711:android:255f37843926fd9b826292",
+        "android_client_info": {
+          "package_name": "com.mamabhanja.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541096490711-2d903tm33bl8ul6ho3kv3kpg0o8fcle3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamabhanja.driver",
+            "certificate_hash": "62a22a54f88003db759935d7f35f1b9f71e439a4"
+          }
+        },
+        {
+          "client_id": "541096490711-6ctrk234len4q2u3grkcvhunqkldjh4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamabhanja.driver",
+            "certificate_hash": "052f0d26faeeaf5b4201f17224936a5c5112ab7b"
+          }
+        },
+        {
+          "client_id": "541096490711-fqfai3qpgdbpl1old6obmdjfn3qhrhmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamabhanja.driver",
+            "certificate_hash": "95a531720711d38d682265572722242d24b85a48"
+          }
+        },
+        {
+          "client_id": "541096490711-m04diqa9911gm8gu1dehgoq27ocdj85t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABBNQr0KXkf0ZxFEo61H6gcYlQw-KdFMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541096490711-m04diqa9911gm8gu1dehgoq27ocdj85t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "541096490711-8kf7s4c0vno9j5k0tt38vcf3i36v5mih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mamabhanja.store"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541096490711:android:ed062c0828068ec7826292",
+        "android_client_info": {
+          "package_name": "com.mamabhanja.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541096490711-eorbot6b2u6sgkv1hoap4q3ac1s9r7ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamabhanja.store",
+            "certificate_hash": "1232ff4fe23fdf5a2cc9e5ca4aef2d58ceb804eb"
+          }
+        },
+        {
+          "client_id": "541096490711-f703pllsvlcq8tq9t22qt2sidj8bam2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamabhanja.store",
+            "certificate_hash": "8e66ea92f6f0bbc1ba995e786662b8836aaa6998"
+          }
+        },
+        {
+          "client_id": "541096490711-m04diqa9911gm8gu1dehgoq27ocdj85t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABBNQr0KXkf0ZxFEo61H6gcYlQw-KdFMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541096490711-m04diqa9911gm8gu1dehgoq27ocdj85t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "541096490711-8kf7s4c0vno9j5k0tt38vcf3i36v5mih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mamabhanja.store"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
