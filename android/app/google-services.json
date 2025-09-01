@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "541096490711-2p23ngs81hb2fr527auvismksrhfr8i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamabhanja.customer",
+            "certificate_hash": "5e5939a02964fff14b68c533f6d98d0cee50a880"
+          }
+        },
+        {
           "client_id": "541096490711-i1di3n3ip3i05661l7lqfo64e4quoue1.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -36,6 +44,14 @@
           "android_info": {
             "package_name": "com.mamabhanja.customer",
             "certificate_hash": "62a22a54f88003db759935d7f35f1b9f71e439a4"
+          }
+        },
+        {
+          "client_id": "541096490711-nfaihq24j96nlg10kpnvkq6n8ul5uu0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamabhanja.customer",
+            "certificate_hash": "12fc9130ea047786bcef80d5496a878f20c776be"
           }
         },
         {
@@ -75,6 +91,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "541096490711-1o62rm92flgu82enlj91bfpdgd6fpt2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamabhanja.driver",
+            "certificate_hash": "5e5939a02964fff14b68c533f6d98d0cee50a880"
+          }
+        },
+        {
           "client_id": "541096490711-2d903tm33bl8ul6ho3kv3kpg0o8fcle3.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -96,6 +120,14 @@
           "android_info": {
             "package_name": "com.mamabhanja.driver",
             "certificate_hash": "95a531720711d38d682265572722242d24b85a48"
+          }
+        },
+        {
+          "client_id": "541096490711-nnvdivikhscpevsqfai3bp09ghhrab18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamabhanja.driver",
+            "certificate_hash": "12fc9130ea047786bcef80d5496a878f20c776be"
           }
         },
         {
@@ -134,6 +166,22 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "541096490711-2a8i1c6hm9gbae1on49jqlcer31j7kgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamabhanja.store",
+            "certificate_hash": "12fc9130ea047786bcef80d5496a878f20c776be"
+          }
+        },
+        {
+          "client_id": "541096490711-auiqh42hthgrfcgl5q3lja16c5lo9upk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamabhanja.store",
+            "certificate_hash": "5e5939a02964fff14b68c533f6d98d0cee50a880"
+          }
+        },
         {
           "client_id": "541096490711-eorbot6b2u6sgkv1hoap4q3ac1s9r7ce.apps.googleusercontent.com",
           "client_type": 1,
