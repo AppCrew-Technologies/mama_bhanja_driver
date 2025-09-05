@@ -1,0 +1,8 @@
+app_identifier("com.mamabhanja.driver") # The bundle identifier of your app
+apple_id("lakshay@appcrew.in") # Your Apple Developer Portal username
+
+itc_team_id("127691321") # App Store Connect Team ID
+team_id("RAJDAKNG8M") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

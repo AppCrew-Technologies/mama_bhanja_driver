@@ -1,0 +1,28 @@
+default_platform(:ios)
+platform :ios do
+	desc "Push a new release build to the App Store"
+	lane :deploy do |options|
+		ipa_path = options[:ipa_path]
+		UI.message("IPA path: #{ipa_path}")
+		
+		unless ipa_path && File.exist?(ipa_path)
+			UI.user_error!("IPA file not found at path: #{ipa_path}")
+		end
+		
+		UI.message("Uploading IPA at path: #{ipa_path}")
+		api_key = app_store_connect_api_key(
+			key_id: "BD33423395",
+			issuer_id: "363b7cde-ef68-41ca-b7c6-25191e8cfe4f",
+			key_filepath: '/Users/lakshay/Developer/App Store Keys/mama_bhanja.p8',
+		)
+		
+		upload_to_app_store(
+			api_key: api_key,
+			ipa: ipa_path,
+			skip_metadata: true,
+			skip_screenshots: true,
+			skip_app_version_update: true,
+			run_precheck_before_submit: false
+		)
+	end
+end
